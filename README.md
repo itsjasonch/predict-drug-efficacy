@@ -27,6 +27,6 @@ fp_clf.ipynb    --- Binary classification model using Morgan Fingerprint encodin
 
 desc_clf.ipynb  --- Binary classification model using PaDEL-descriptor encoding
 <br/><br/>
-[2] Prediction
+[3] Prediction
 
 The names of the predicted positive cancer drugs were stored in "pred-positive-drugs.csv".
