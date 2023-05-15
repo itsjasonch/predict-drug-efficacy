@@ -26,5 +26,7 @@ desc_reg.ipynb  --- Regression model using PaDEL-descriptor encoding
 fp_clf.ipynb    --- Binary classification model using Morgan Fingerprint encoding, and performing prediction for the licensed cancer drugs
 
 desc_clf.ipynb  --- Binary classification model using PaDEL-descriptor encoding
+<br/><br/>
+[2] Prediction
 
-
+The names of the predicted positive cancer drugs were stored in "pred-positive-drugs.csv".
